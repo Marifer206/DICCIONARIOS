@@ -168,7 +168,7 @@ def main():
     for deportista in deportistas:
         print(deportista)
 
-# Ejecuta la función main() si el script se ejecuta como un programa principal
+# Ejecuta la función main() 
 if __name__ == "__main__":
     main()
 
